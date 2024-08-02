@@ -1,14 +1,20 @@
-💫 Hi, I'm Zainaaz Hansa
-<br>🏫I'm currently a final year IT student at North-West University, working towards my BSc in Information Technology.
-<br>I am a proud Vodacom Bursar, Alumni and Youth Ambassador. I won Vodacom's #CodeLikeAGirl program in 2021.
-<br> I'm all about learning, growing, and tackling new challenges head-on!
+Hi, I'm Zainaaz Hansa
+<br>🎓 I'm currently a final year IT student at North-West University, working towards my BSc in Information Technology.
+<br>🏫 I am a proud Vodacom Bursar, Alumni and Youth Ambassador. I won Vodacom's #CodeLikeAGirl program in 2021.
+<br>🌱 I'm all about learning, growing, and tackling new challenges head-on!
 <br>🚀 I’m an innovation enthusiast, always motivated to improve and disciplined in my pursuits.
-<br>🖥 I’m on a mission to keep expanding my knowledge and skills in the tech world.
-<br>Let's connect and grow together!🌟
+<br>📚 I’m on a mission to keep expanding my knowledge and skills in the tech world.
+<br>✨ Let's connect and grow together!
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainaaz-hansa-a8795a203/)
 
-Have a look at my website while you're here: https://zainaaazz.github.io/website/index.html
+[![view - Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://zainaaazz.github.io/website/index.html)
+
+[![view - Virtual CV Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://zainaaazz.github.io/website/index.html)
+
+
 
 
 ---
