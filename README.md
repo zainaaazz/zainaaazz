@@ -8,6 +8,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainaaz-hansa-a8795a203/)
 
+Have a look at my website while you're here: https://zainaaazz.github.io/website/index.html
+
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
