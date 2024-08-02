@@ -7,15 +7,6 @@ Hi, I'm Zainaaz Hansa
 <br>✨ Let's connect and grow together!
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainaaz-hansa-a8795a203/)
-
-[![view - Virtual CV Website](https://img.shields.io/badge/Visit-Website-white?style=for-the-badge)](https://zainaaazz.github.io/website/index.html)
-
-
-
-
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -43,4 +34,9 @@ Hi, I'm Zainaaz Hansa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainaaazz&theme=gotham&hide_progress=true)
 
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainaaz-hansa-a8795a203/)
+
+[![view - Virtual CV Website](https://img.shields.io/badge/Visit-Website-white?style=for-the-badge)](https://zainaaazz.github.io/website/index.html)
 
