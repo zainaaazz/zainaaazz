@@ -10,9 +10,7 @@ Hi, I'm Zainaaz Hansa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainaaz-hansa-a8795a203/)
 
-[![view - Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://zainaaazz.github.io/website/index.html)
-
-[![view - Virtual CV Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://zainaaazz.github.io/website/index.html)
+[![view - Virtual CV Website](https://img.shields.io/badge/Visit-Website-white?style=for-the-badge)](https://zainaaazz.github.io/website/index.html)
 
 
 
