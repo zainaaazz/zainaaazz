@@ -36,3 +36,7 @@ Have a look at my website while you're here: https://zainaaazz.github.io/website
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zainaaazz&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainaaazz&theme=gotham&hide_progress=true)
+
+
