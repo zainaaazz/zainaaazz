@@ -1,6 +1,7 @@
 Hi, I'm Zainaaz Hansa
-<br>🎓 I'm currently a BSc Honours in  Computer Science and IT student at North-West University
-<br>🎓 I graduated with an undergraduate degree in IT with a GPA of 84.87%
+<br>🎓 I'm currently a BSc Honours in  Computer Science and IT student at the North-West University 
+<br> - majoring in AI, Cyber Security, Decision Support Systems and Information Systems Engineering
+<br>🧑‍🎓 I graduated with an undergraduate degree in IT with a GPA of 84.87%
 <br>🏫 I am a proud Vodacom Bursar, Alumni and Youth Ambassador. I won Vodacom's #CodeLikeAGirl program in 2021.
 <br>🌱 I'm all about learning, growing, and tackling new challenges head-on!
 <br>🚀 I’m an innovation enthusiast, always motivated to improve and disciplined in my pursuits.
